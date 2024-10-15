@@ -5,3 +5,8 @@ nav ul li {display: inline ;
 } ;
 .texte {font-family: roboto;
 }
+.picture {
+  display:flex ;
+  justify-content: center;
+  
+}
